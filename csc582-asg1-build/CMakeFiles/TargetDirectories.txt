@@ -1,0 +1,12 @@
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/CMakeFiles/edit_cache.dir
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/CMakeFiles/rebuild_cache.dir
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/source/CMakeFiles/proj1_FourBitAdder.dir
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/source/CMakeFiles/edit_cache.dir
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/source/CMakeFiles/rebuild_cache.dir
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/source/FourBitAdder/intern/CMakeFiles/edit_cache.dir
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/source/FourBitAdder/intern/CMakeFiles/rebuild_cache.dir
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/tests/CMakeFiles/edit_cache.dir
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/tests/CMakeFiles/rebuild_cache.dir
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/tests/gtests/CMakeFiles/LogicGatesGTests.dir
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/tests/gtests/CMakeFiles/edit_cache.dir
+/Users/wandolo/Desktop/csc582/csc582-asg1-build/tests/gtests/CMakeFiles/rebuild_cache.dir
